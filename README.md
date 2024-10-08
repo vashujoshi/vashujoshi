@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://www.reddit.com/r/Cyberpunk/comments/sahu80/artist_pixel_jeff/#lightbox" alt="Profile Picture" width="150" height="150"/>
+  <img src="https://www.rawpixel.com/search/cyberpunk" alt="Profile Picture" width="150" height="150"/>
   Hi 👋, I'm Vaibhav Joshi
 </h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
