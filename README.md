@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4JWO0wchAecy1cWSumdqKsPJ-psan97FGgg&s" alt="Profile Picture" width="150" height="100"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4JWO0wchAecy1cWSumdqKsPJ-psan97FGgg&s" alt="Profile Picture" width="150" height="200"/>
   Hi 👋, I'm Vaibhav Joshi
 </h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
