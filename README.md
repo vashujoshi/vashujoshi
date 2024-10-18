@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://www.rawpixel.com/search/cyberpunk" alt="Profile Picture" width="150" height="150"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4JWO0wchAecy1cWSumdqKsPJ-psan97FGgg&s" alt="Profile Picture" width="200" height="150"/>
   Hi 👋, I'm Vaibhav Joshi
 </h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
