@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-s2up.vercel.app/](https://personal-portfolio-s2up.vercel.app/)
 
-- 💬 Ask me about **Java, Spring Boot, Next.js**
+- 💬 Ask me about **BACKEND,DSA,LLD**
 
 - 📫 How to reach me **vashu941130@gmail.com**
 
