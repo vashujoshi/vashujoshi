@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **document verification system**
 
-- 🌱 I’m currently learning **Java, Spring Framework, Spring Boot, Hibernate, MongoDB**
+- 🌱 I’m currently learning **fullstack,django,mern etc**
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-s2up.vercel.app/](https://personal-portfolio-s2up.vercel.app/)
 
