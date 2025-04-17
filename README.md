@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **BACKEND,DSA,LLD**
 
-- 📫 How to reach me **vashu941130@gmail.com**
+- 📫 How to reach me **vaibhav.joshi.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
